@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+  <channel>
+    <title>Listen Later</title>
+    <link>https://kesavm.github.io/</link>
+    <description>This is a private test feed.</description>
+    <language>en-us</language>
+    <itunes:author>Test Author</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://kesavm.github.io/app-icon.png" />
+    <pubDate>Fri, 20 Jun 2025 10:00:00 GMT</pubDate>
+
+    <item>
+      <title>Episode 1 – Hello World</title>
+      <description>This is a test episode with sample audio.</description>
+      <pubDate>Fri, 20 Jun 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+                 length="12345678"
+                 type="audio/mpeg" />
+      <guid>test-ep-1</guid>
+    </item>
+
+  </channel>
+</rss>
