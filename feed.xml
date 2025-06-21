@@ -11,7 +11,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://kesavm.github.io/app-icon.png" />
     <pubDate>Fri, 20 Jun 2025 10:00:00 GMT</pubDate>
-
+    <item>
+      <title>Software 3.0 (Processing)</title>
+      <description>We are processing your article...</description>
+      <pubDate>Fri, 27 Jun 2025 10:00:00 GMT</pubDate>
+      <guid>test-ep-2</guid>
+    </item>
     <item>
       <title>Episode 1 – Hello World</title>
       <description>This is a test episode with sample audio.</description>
