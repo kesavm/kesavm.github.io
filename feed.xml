@@ -12,9 +12,12 @@
     <itunes:image href="https://kesavm.github.io/app-icon.png" />
     <pubDate>Fri, 20 Jun 2025 10:00:00 GMT</pubDate>
     <item>
-      <title>Software 3.0 (Processing)</title>
-      <description>We are processing your article...</description>
-      <pubDate>Fri, 27 Jun 2025 10:00:00 GMT</pubDate>
+      <title>Can China Reclaim its IPO crown?</title>
+      <description>Hong Kong is hot. The mainland very much is not</description>
+      <pubDate>Fri, 21 Jun 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://kesavm.github.io/synthesis.mp3"
+                 length="12345678"
+                 type="audio/mpeg" />
       <guid>test-ep-2</guid>
     </item>
     <item>
